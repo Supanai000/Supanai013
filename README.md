@@ -1,2 +1,2 @@
 # Supanai013
-{mycoce67(program01.py
+{mycoce67}(program01.py)
